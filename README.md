@@ -1,2 +1,10 @@
 # ATM_simulator
-This project is about the ATM simulator. This works as an atm you can create an account, log in, withdraw money(virtual), deposite, change your pin, check balance, deactivate the account, and get a mini statement.
+This project is about the ATM simulator. This works as an atm you can 
+1. create an account
+2. log in
+3. withdraw money(virtual)
+4. deposite
+5. change your pin
+6. check balance
+7. deactivate the account
+8. and get a mini statement.
