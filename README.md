@@ -1,5 +1,6 @@
 # ATM_simulator
-This project is about the ATM simulator. This works as an atm you can 
+This project is about the ATM simulator.
+you can 
 1. create an account
 2. log in
 3. withdraw money(virtual)
